@@ -33,15 +33,15 @@ To run any challenge:
 Manual-Re-Implementation-of-Built-In-Functions-Time-Complexity-Challenge-/<challenge folder>/main.py
 ```
 
-🧪 Learning Goals
+## 🧪 Learning Goals
 - Improve algorithm fluency
 - Analyze runtime before using Python built-ins
 - Prepare for coding interviews with deeper knowledge
 - Think critically about trade-offs in implementation
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. Feel free to fork, contribute, or use this for educational purposes!
 
-🙋‍♀️ Author
+## 🙋‍♀️ Author
 Created with ❤️ by Divya Ganesh
 Questions, ideas, or want to collaborate? Open an issue or PR!
