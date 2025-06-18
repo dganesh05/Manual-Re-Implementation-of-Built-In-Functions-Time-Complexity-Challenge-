@@ -43,5 +43,7 @@ Manual-Re-Implementation-of-Built-In-Functions-Time-Complexity-Challenge-/<chall
 This project is licensed under the MIT License. Feel free to fork, contribute, or use this for educational purposes!
 
 ## 🙋‍♀️ Author
+
 Created with ❤️ by Divya Ganesh
+
 Questions, ideas, or want to collaborate? Open an issue or PR!
